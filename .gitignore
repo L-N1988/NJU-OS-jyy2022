@@ -1,0 +1,14 @@
+*.pdf
+os-play/*
+ostep-book-2018/*
+ostep-code/
+.*
+*.[oad]
+!.gitignore
+*~
+a.out
+a.out-*
+*-32*
+*-64*
+*tmp*
+

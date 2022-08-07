@@ -1,0 +1,3 @@
+[submodule "os-workbench-2022"]
+	path = os-workbench-2022
+	url = https://github.com/NJU-ProjectN/os-workbench-2022
